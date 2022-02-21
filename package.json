@@ -1,0 +1,15 @@
+{
+  "name": "task3-rest",
+  "version": "0.0.1",
+  "description": "Sample REST API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor <dont@bzzr.me> (https://ignorethis.page/)",
+  "license": "MIT",
+  "dependencies": {
+    "@tinyhttp/app": "^2.0.17"
+  }
+}
